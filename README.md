@@ -1,5 +1,7 @@
 # Comparitive-Clustering
 
+![Image](https://github.com/user-attachments/assets/5714f550-48cd-4df9-9607-866fc479641d)
+
 Comparative Clustering Analysis with Different Preprocessing Techniques
 Overview
 Clustering is an essential unsupervised learning technique used to group similar data points. The effectiveness of clustering algorithms can vary based on different preprocessing methods, choice of clustering techniques, and the number of clusters (k). This comparative study evaluates Agglomerative Clustering, K-Means, and K-Medoids using multiple preprocessing techniques, such as No Preprocessing, PCA, Normalization, Transformation, Transformation + PCA, and Transformation + PCA + Scaling. The results are assessed using three evaluation metrics:
